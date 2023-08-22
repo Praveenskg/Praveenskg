@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Redux, Nodejs**
 
-- 👨‍💻 All of my projects are available at [![][Praveenachd.tk]](Praveenachd.tk)
+- 👨‍💻 All of my projects are available at [![]Praveenachd.tk](https://praveenchd.tk/))
 
 - 💬 Ask me about **React , JavaScript**
 
