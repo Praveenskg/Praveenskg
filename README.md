@@ -1,4 +1,4 @@
-[![](https://github.com/Praveenskg/Praveenskg/blob/main/img.png)](https://praveenchd.tk/)
+
 <h1 align="center">Hi 👋, I'm Praveen Singh</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="" align="right" width="400">
