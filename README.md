@@ -1,37 +1,27 @@
 ![Header](./Header.png)
 
-
-
  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="" align="right" width="400">
 
-- 🌱 I’m currently learning **React, Redux, Nodejs**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/Praveenskg?tab=repositories)
+- 🌱 I’m currently learning everything 🤣
 
-- 💬 Ask me about **React , JavaScript**
+- 👨‍💻 All of my projects are available at **[Here](https://github.com/Praveenskg?tab=repositories)**
 
-- 📫 Reach me At **Praveensinghiics@gmail.com**
+- 💬 Ask me about **React, JavaScript**
 
-- ⚡ Fun fact **I think I Am Funny 😂**
+- 📫 Reach me At **[Here](mailto:Praveencdg@gmail.com)**
 
-<h3 align="left">Connect with me:</h3>
+
+
+### Connect with me:
+
 <div align="left">
   <a href="https://linkedin.com/in/praveen-singh-ald" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="40"
-      height="40"
-      alt="linkedin logo"
-    />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+  width="40"/></a>
   <a href="https://twitter.com/its_praveen_s" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
-      width="40"
-      height="40"
-      alt="twitter logo"
-    />
-  </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" / width ="40">
+</a>
   <a href="https://instagram.com/o_its_praveen" target="_blank">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
@@ -42,50 +32,19 @@
   </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
- <div align="left">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-      height="35"
-      width="35"
-      alt="html5 logo"
-    />
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-      height="35"
-      width="35"
-      alt="css3 logo"
-    />
- <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-      height="35"
-      width="35"
-      alt="bootstrap logo"
-    />
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-      height="35"
-      width="35"
-      alt="javascript logo"
-    />
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-      height="35"
-      width="35"
-      alt="react logo"
-    />
- <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      height="35"
-      width="35"
-    />
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-      height="35"
-      width="35"
-    />
-  </div>
+### Languages and Tools:
 
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img  align ="left" alt="Bootstrap" width="26px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  style="padding-right:10px;"/>
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+<br>
 <br>
 <div align="center">
   <img
