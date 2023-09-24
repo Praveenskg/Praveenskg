@@ -58,3 +58,5 @@
     alt="languages graph"
   />
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Praveenskg)](https://git.io/streak-stats)
+
