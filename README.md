@@ -93,6 +93,15 @@
  ---
 ### 📊 GitHub Stats
 <details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
  <summary>:zap: GitHub Stats</summary>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praveenskg&rank_icon=github&theme=dracula&hide_border=false&&count_private=true" height="180"/>
