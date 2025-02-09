@@ -79,8 +79,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenskg&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenskg&layout=compact&theme=dracula&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenskg&rank_icon=github&theme=dracula&hide_border=false&&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenskg&layout=donut&theme=dracula&hide_border=false" height="180"/>
 </p>
 
 ---
