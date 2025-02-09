@@ -11,7 +11,7 @@
 
 - 🌱 Currently deep-diving into **Next.js, TypeScript, and backend optimizations**.
 - 💬 Ask me about **React, JavaScript, Node.js, and Full Stack Development**.
-- 👨‍💻 Check out my projects **[here](https://github.com/Praveenskg?tab=repositories)**.
+- 👨‍💻 Check out my projects **[Here](https://github.com/Praveenskg?tab=repositories)**.
 - 📫 Reach me at **[Email](mailto:Praveencdg@gmail.com)**.
 
 ---
@@ -23,14 +23,14 @@
 ### 🌍 Connect with Me:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/praveen-singh-ald" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/praveen-singh-ald" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/Its_Praveen_S" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="Twitter"/>
+  <a href="https://x.com/Its_Praveen_S" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="30" height="30" alt="Twitter"/>
   </a>
-  <a href="https://www.instagram.com/o_its_praveen/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="Instagram"/>
+  <a href="https://www.instagram.com/o_its_praveen/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="Instagram"/>
   </a>
 </div>
 
@@ -46,9 +46,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
-        <img src="https://skillicons.dev/icons?i=ts" height="30"/>
+        <img src="https://skillicons.dev/icons?i=ts" width="30" height="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
-        <img src="https://skillicons.dev/icons?i=materialui" height="30"/>
+        <img src="https://skillicons.dev/icons?i=materialui" width="30" height="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30"/>
@@ -68,7 +68,7 @@
     <tr>
       <td><strong>Tools & Version Control</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git" height="30"/>
+        <img src="https://skillicons.dev/icons?i=git" width="30" height="30"/>
         <img src="https://skillicons.dev/icons?i=github" width="30" height="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/>
       </td>
@@ -90,12 +90,13 @@
 ### 🎨 **Quote of the Day**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="90%" height="auto" alt="Quote of the Day"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"  height="auto" alt="Quote of the Day"/>
 </div>
 
+---
+
+### 🐍 **Snake Animation**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Praveenskg/Praveenskg/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Praveenskg/Praveenskg/output/snake.svg" width="100%" height="auto" alt="Snake animation"/>
 </p>
-
----
