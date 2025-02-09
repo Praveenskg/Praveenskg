@@ -18,22 +18,20 @@
 
 ### 🌍 Connect with Me:
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div>
-    <a href="https://www.linkedin.com/in/praveen-singh-ald" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="LinkedIn"/>
-    </a>
-    <a href="https://x.com/Its_Praveen_S" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="30" height="30" alt="Twitter"/>
-    </a>
-    <a href="https://www.instagram.com/o_its_praveen/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="Instagram"/>
-    </a>
-  </div>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=praveenskg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </div>
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=praveenskg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/praveen-singh-ald" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Its_Praveen_S" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="30" height="30" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/o_its_praveen/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
