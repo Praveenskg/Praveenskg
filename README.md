@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Praveen Singh</h1>
 <h3 align="left">A passionate Full Stack Developer from India</h3>
-<hr>
+
 🚀 **Full Stack Developer** passionate about building scalable, high-performance applications.  
 💡 Experienced in **React, Node.js, JavaScript, and modern web technologies**.  
 📚 Always exploring new tools and best practices to improve efficiency.
@@ -89,12 +89,13 @@
 
 ### 🎨 **Quote of the Day**
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Quote of the Day" />
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="90%" height="auto" alt="Quote of the Day"/>
+</div>
 
-### 🐍 **Snake Animation**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Praveenskg/Praveenskg/output/snake.svg" alt="Snake animation" />
 </p>
+
+---
