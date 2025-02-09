@@ -2,8 +2,7 @@ name: Update README
 
 on:
   schedule:
-    # Runs every 30 minutes
-    - cron: '*/30 * * * *'
+    - cron: "0 * * * *"  # Runs every 1 hour instead of 30 mins
 
 jobs:
   build:
@@ -12,6 +11,18 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          fetch-depth: 0  # Ensures full commit history
+
+      - name: Run github-activity-readme
+        uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use PAT if needed
+
+      - name: Push changes
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git add README.md
+          git commit -m "Update activity in README" || echo "No changes to commit"
+          git push origin main || echo "Push failed, check branch protection settings"
