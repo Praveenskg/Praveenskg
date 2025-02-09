@@ -76,15 +76,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenskg&rank_icon=github&theme=dracula&hide_border=false&&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenskg&layout=donut&theme=dracula&hide_border=false" height="180"/>
-</p>
-
----
-
 ### 🎨 **Quote of the Day**
 
 <div align="center">
@@ -98,3 +89,13 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Praveenskg/Praveenskg/output/snake.svg" width="100%" alt="Snake animation"/>
 </div>
+ 
+ ---
+### 📊 GitHub Stats
+<details>
+ <summary>:zap: GitHub Stats</summary>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenskg&rank_icon=github&theme=dracula&hide_border=false&&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenskg&layout=donut&theme=dracula&hide_border=false" height="180"/>
+</p>
+</details>
