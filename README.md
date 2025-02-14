@@ -41,35 +41,29 @@
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
-      <img src="https://skillicons.dev/icons?i=js" width="30" height="30" alt="JavaScript logo"/>
-      <img src="https://skillicons.dev/icons?i=ts" width="30" height="30"/>
+       <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
-      <img src="https://skillicons.dev/icons?i=materialui" width="30" height="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30"/>
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,vite"height="30"/>
     </td>
   </tr>
   <tr>
-    <td><strong>Backend & DevOps</strong></td>
+    <td><strong>Backend & Database </strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs" width="30" height="30" alt="Node.js logo"/>
-      <img src="https://skillicons.dev/icons?i=express" width="30" height="30" alt="Express logo"/>
-      <img src="https://skillicons.dev/icons?i=mongodb" width="30" height="30" alt="MongoDB logo"/>
-      <img src="https://skillicons.dev/icons?i=mysql" width="30" height="30" alt="MySQL logo"/>
-      <img src="https://skillicons.dev/icons?i=postgres" width="30" height="30" alt="PostgreSQL logo"/>
-      <img src="https://skillicons.dev/icons?i=docker" width="30" height="30" alt="Docker logo"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase"  height="30" alt="Node.js logo"/>
     </td>
   </tr>
   <tr>
     <td><strong>Tools & Version Control</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git" width="30" height="30"/>
-      <img src="https://skillicons.dev/icons?i=github" width="30" height="30"/>
-      <img src="https://skillicons.dev/icons?i=postman" width="30" height="30"/>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,powershell" height="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/>
+    </td>
+  </tr>
+    <tr>
+    <td><strong>Operating System</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=windows" height="30"/>
     </td>
   </tr>
 </table>
