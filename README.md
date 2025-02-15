@@ -73,7 +73,7 @@
 
 ---
 
-### 🐍 **Snake Animation**
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Praveenskg/Praveenskg/output/snake.svg" width="100%" alt="Snake animation"/>
