@@ -1,26 +1,21 @@
-<h1 align="left">Hi 👋, I'm Praveen Singh</h1>
-<h3 align="left">A passionate Full Stack Developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;This+is+Praveen+Singh;Nice+to+meet+you" alt="Typing SVG" />
+</h1>
 
-🚀 **Full Stack Developer** passionate about building scalable, high-performance applications.  
-💡 Experienced in **React, Node.js, JavaScript, and modern web technologies**.  
-📚 Always exploring new tools and best practices to improve efficiency.
+![](https://komarev.com/ghpvc/?username=Praveenskg&color=brightgreen)
 
----
-
-### 📌 About Me:
-
-- 🌱 Currently deep-diving into **Next.js, TypeScript, and backend optimizations**.
-- 💬 Ask me about **React, JavaScript, Node.js, and Full Stack Development**.
-- 👨‍💻 Check out my projects **[Here](https://github.com/Praveenskg?tab=repositories)**.
-- 📫 Reach me at **[Email](mailto:Praveencdg@gmail.com)**.
+🚀 **Full Stack Developer** passionate about building scalable, high-performance applications  
+📚 Always exploring new tools and best practices to improve efficiency.  
+💻 I love exploring new tech stacks and building cool stuff.  
+📰 Reading tech documentation whenever possible.  
+🌱 Currently deep-diving into **Next.js, TypeScript, and backend optimizations**.  
+💬 Ask me about **React, JavaScript, Node.js, and Full Stack Development**.  
+⚡ **Fun fact:** `==` is not always equal to `===` in JavaScript. 🤣
 
 ---
 
 ### 🌍 Connect with Me:
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=praveenskg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 <p align="left">
   <a href="https://www.linkedin.com/in/praveen-singh-ald" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="LinkedIn"/>
