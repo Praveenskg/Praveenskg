@@ -37,8 +37,8 @@
     <td><strong>Frontend</strong></td>
     <td>
        <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  height="30"/>
       <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,vite"height="30"/>
     </td>
   </tr>
@@ -52,7 +52,7 @@
     <td><strong>Tools & Version Control</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=git,github,postman,powershell" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height="30"/>
     </td>
   </tr>
     <tr>
@@ -72,8 +72,6 @@
 </div>
 
 ---
-
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Praveenskg/Praveenskg/output/snake.svg" width="100%" alt="Snake animation"/>
