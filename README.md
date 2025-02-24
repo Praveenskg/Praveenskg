@@ -36,29 +36,26 @@
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
-       <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  height="30"/>
-      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,vite"height="30"/>
+       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui,vite"  alt="Node.js logo"  />
     </td>
   </tr>
   <tr>
     <td><strong>Backend & Database </strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase"  height="30" alt="Node.js logo"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase"  alt="Node.js logo" />
     </td>
   </tr>
   <tr>
     <td><strong>Tools & Version Control</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,powershell" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height="30"/>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,powershell" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height="40"/>
     </td>
   </tr>
     <tr>
     <td><strong>Operating System</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=windows" height="30"/>
+      <img src="https://skillicons.dev/icons?i=windows" />
     </td>
   </tr>
 </table>
