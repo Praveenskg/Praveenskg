@@ -55,7 +55,7 @@
     <tr>
     <td><strong>Operating System</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=windows" />
+      <img src="https://skillicons.dev/icons?i=windows,linux" />
     </td>
   </tr>
 </table>
