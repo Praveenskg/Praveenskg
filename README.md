@@ -1,14 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;This+is+Praveen+Singh;Nice+to+meet+you" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+%F0%9F%91%8B;I%E2%80%99m+Praveen+Singh;Fullstack+Engineer+Here+%F0%9F%9A%80;Let%E2%80%99s+Build+Something+Cool" alt="Typing SVG" />
 </h1>
 
-![](https://komarev.com/ghpvc/?username=Praveenskg&color=brightgreen)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Praveenskg&color=brightgreen&style=flat-square)
+
+
 
 🚀 **Full Stack Developer** passionate about building scalable, high-performance applications  
 📚 Always exploring new tools and best practices to improve efficiency.  
 💻 I love exploring new tech stacks and building cool stuff.  
-📰 Reading tech documentation whenever possible.  
-🌱 Currently deep-diving into **Next.js, TypeScript, and backend optimizations**.  
+📖 I read documentation like it's the morning newspaper 📰  
+🔭 Currently deep-diving into **Next.js, TypeScript, and backend optimizations**.  
 💬 Ask me about **React, JavaScript, Node.js, and Full Stack Development**.  
 ⚡ **Fun fact:** `==` is not always equal to `===` in JavaScript. 🤣
 
