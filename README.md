@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey There! 👋;I’m Praveen Singh;Fullstack Engineer Here 🚀;Let’s Build Something Cool" alt="Typing SVG" />
-</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+%F0%9F%91%8B;I%E2%80%99m+Praveen+Singh;Fullstack+Engineer+Here+%F0%9F%9A%80;Let%E2%80%99s+Build+Something+Cool" alt="Typing SVG" />
+</p>
  
 [![Github](https://img.shields.io/github/followers/Praveenskg?label=Follow&style=social)](https://github.com/praveenskg)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/praveenskg/)
