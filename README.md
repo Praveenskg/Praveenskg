@@ -77,29 +77,28 @@
 
 ---
 
-### 📊 GitHub Trophy
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveenskg&theme=dracula&no-bg=true&margin-w=15&row=1" style="width: 100%; max-width: 100%;" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Praveenskg&theme=dracula&no-bg=true&row=1&margin-w=10" width="100%"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=praveenskg&rank_icon=github&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenskg&theme=dracula" height="180"/>
-    </td>
-     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenskg&layout=donut&theme=dracula&hide_border=false" height="180"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenskg&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula"  height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenskg&theme=dracula" height="180"/>
+</p>
+
+---
+
+### 📚 Most Used Languages
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenskg&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
+</p>
 
 ---
 
