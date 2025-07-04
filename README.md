@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+%F0%9F%91%8B;I%E2%80%99m+Praveen+Singh;Fullstack+Engineer+Here+%F0%9F%9A%80;Let%E2%80%99s+Build+Something+Cool" alt="Typing SVG" />
 </h1>
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Praveenskg&color=brightgreen&style=flat-square)
 
 
@@ -75,8 +74,22 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Praveenskg/Praveenskg/output/snake.svg" width="100%" alt="Snake animation"/>
-</div>
- 
+</div> 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Praveenskg&theme=dracula&row=1&no-bg=true" />
+</p>
+
+### 🛠 Featured Projects
+
+- 🔗 [GatherPass](https://github.com/Praveenskg/GatherPass) – Event manager app using Next.js, Supabase, and Stripe.
+- 📰 [Portfolio Blog](https://github.com/Praveenskg/portfolio) – Modern blog using App Router, MDX, and TailwindCSS.
+
+
+
+ ![GitHub followers](https://img.shields.io/github/followers/Praveenskg?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Praveenskg/portfolio?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/Praveenskg/portfolio)
+
  ---
 ### 📊 GitHub Stats
 
