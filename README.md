@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+%F0%9F%91%8B;I%E2%80%99m+Praveen+Singh;Fullstack+Engineer+Here+%F0%9F%9A%80;Let%E2%80%99s+Build+Something+Cool" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+👋;I’m Praveen Singh;Fullstack Engineer Here 🚀;Let’s Build Something Cool" alt="Typing SVG" />
 </h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Praveenskg&color=brightgreen&style=flat-square)
@@ -8,6 +8,7 @@
 📚 Always exploring new tools and best practices to improve efficiency.  
 💻 I love exploring new tech stacks and building cool stuff.  
 📖 I read documentation like it's the morning newspaper 📰  
+🎯 Goal: To build developer-first products and SaaS tools.  
 🔭 Currently deep-diving into **Next.js, TypeScript, and backend optimizations**.  
 💬 Ask me about **React, JavaScript, Node.js, and Full Stack Development**.  
 ⚡ **Fun fact:** `==` is not always equal to `===` in JavaScript. 🤣
@@ -89,15 +90,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praveenskg&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula"  height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenskg&theme=dracula" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenskg&layout=donut&theme=dracula&hide_border=false" height="180"/>
+ 
 </p>
 
 ---
 
-### 📚 Most Used Languages
+### 🔥 GitHub Streak Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenskg&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenskg&theme=dracula" height="180"/>
 </p>
 
 ---
