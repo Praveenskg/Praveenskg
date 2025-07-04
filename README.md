@@ -2,7 +2,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+👋;I’m Praveen Singh;Fullstack Engineer Here 🚀;Let’s Build Something Cool" alt="Typing SVG" />
 </h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Praveenskg&color=brightgreen&style=flat-square)
+<p align="center">
+  <a href="https://github.com/praveenskg">
+    <img src="https://img.shields.io/github/followers/Praveenskg?label=Follow&style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/praveenskg/">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin" />
+  </a>
+  <a href="https://x.com/its_praveen_s">
+    <img src="https://img.shields.io/twitter/follow/its_praveen_s?style=social" />
+  </a>
+  <a href="https://www.instagram.com/o_its_praveen">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=social&logo=instagram" />
+  </a>
+  <a href="https://praveenskg.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-green?&logo=vercel" />
+  </a>
+  <a href="mailto:praveencdg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ContactMe-informational?&logo=gmail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Praveenskg" />
+</p>
 
 🚀 **Full Stack Developer** passionate about building scalable, high-performance applications  
 📚 Always exploring new tools and best practices to improve efficiency.  
@@ -15,66 +35,19 @@
 
 ---
 
-### 🌍 Connect with Me:
+### 🧰 Tools & Technologies
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/praveenskg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Its_Praveen_S" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="30" height="30" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/o_its_praveen/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="Instagram"/>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,git,github,mongodb,mysql,supabase,vscode" />
 </p>
 
 ---
 
-### ⚡ Tech Stack:
+### 💬 Quote of the Day
 
-<table align="center">
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui,vite"  alt="Frontend stack"  />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend & Database </strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase"  alt="Backend stack" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Version Control</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,powershell" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height="40"/>
-    </td>
-  </tr>
-    <tr>
-    <td><strong>Operating System</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=windows,linux" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎨 **Quote of the Day**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote of the Day"/>
-</div>
-
----
-
-<details>
-  <summary>🐍 GitHub Contribution Snake</summary>
-  <img src="https://raw.githubusercontent.com/Praveenskg/Praveenskg/output/snake.svg" width="100%" alt="Snake animation"/>
-</details>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"  />
+</p>
 
 ---
 
@@ -109,3 +82,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenskg&theme=dracula&area=true&hide_border=false" />
 </p>
+
+<details>
+  <summary>🐍 GitHub Contribution Snake</summary>
+  <img src="https://raw.githubusercontent.com/Praveenskg/Praveenskg/output/snake.svg" width="100%" alt="Snake animation"/>
+</details>
