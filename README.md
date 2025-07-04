@@ -1,28 +1,14 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+👋;I’m Praveen Singh;Fullstack Engineer Here 🚀;Let’s Build Something Cool" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <a href="https://github.com/praveenskg">
-    <img src="https://img.shields.io/github/followers/Praveenskg?label=Follow&style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/praveenskg/">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin" />
-  </a>
-  <a href="https://x.com/its_praveen_s">
-    <img src="https://img.shields.io/twitter/follow/its_praveen_s?style=social" />
-  </a>
-  <a href="https://www.instagram.com/o_its_praveen">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=social&logo=instagram" />
-  </a>
-  <a href="https://praveenskg.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-green?&logo=vercel" />
-  </a>
-  <a href="mailto:praveencdg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ContactMe-informational?&logo=gmail" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Praveenskg" />
-</p>
+ 
+[![Github](https://img.shields.io/github/followers/Praveenskg?label=Follow&style=social)](https://github.com/praveenskg)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/praveenskg/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/its_praveen_s?style=social)](https://x.com/its_praveen_s)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-E4405F?style=social&logo=instagram)](https://www.instagram.com/o_its_praveen)
+[![Website](https://img.shields.io/badge/Portfolio-green?&logo=vercel)](https://praveenskg.vercel.app)
+[![Email](https://img.shields.io/badge/Email-ContactMe-informational?&logo=gmail)](mailto:praveencdg@gmail.com)
+![Profile Count](https://komarev.com/ghpvc/?username=Praveenskg)
 
 🚀 **Full Stack Developer** passionate about building scalable, high-performance applications  
 📚 Always exploring new tools and best practices to improve efficiency.  
@@ -46,7 +32,7 @@
 ### 💬 Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
 
 ---
