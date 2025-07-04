@@ -37,14 +37,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveenskg&theme=dracula&no-bg=true&row=1&margin-w=10" width="100%"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
