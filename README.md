@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+👋;I’m Praveen Singh;Fullstack Engineer Here 🚀;Let’s Build Something Cool" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey There! 👋;I’m Praveen Singh;Fullstack Engineer Here 🚀;Let’s Build Something Cool" alt="Typing SVG" />
 </h1>
  
 [![Github](https://img.shields.io/github/followers/Praveenskg?label=Follow&style=social)](https://github.com/praveenskg)
