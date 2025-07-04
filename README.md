@@ -4,8 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Praveenskg&color=brightgreen&style=flat-square)
 
-
-
 🚀 **Full Stack Developer** passionate about building scalable, high-performance applications  
 📚 Always exploring new tools and best practices to improve efficiency.  
 💻 I love exploring new tech stacks and building cool stuff.  
@@ -19,7 +17,7 @@
 ### 🌍 Connect with Me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/praveen-singh-ald" target="_blank">
+  <a href="https://www.linkedin.com/in/praveenskg" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/Its_Praveen_S" target="_blank">
@@ -38,13 +36,13 @@
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
-       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui,vite"  alt="Node.js logo"  />
+       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui,vite"  alt="Frontend stack"  />
     </td>
   </tr>
   <tr>
     <td><strong>Backend & Database </strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase"  alt="Node.js logo" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase"  alt="Backend stack" />
     </td>
   </tr>
   <tr>
@@ -67,36 +65,46 @@
 ### 🎨 **Quote of the Day**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote of the Day"/>
 </div>
 
 ---
 
-<div align="center">
+<details>
+  <summary>🐍 GitHub Contribution Snake</summary>
   <img src="https://raw.githubusercontent.com/Praveenskg/Praveenskg/output/snake.svg" width="100%" alt="Snake animation"/>
-</div> 
+</details>
+
+---
+
+### 📊 GitHub Trophy
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveenskg&theme=dracula&row=1&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Praveenskg&theme=dracula&no-bg=true&margin-w=15&row=1" style="width: 100%; max-width: 100%;" alt="GitHub Trophies"/>
 </p>
 
-### 🛠 Featured Projects
+---
 
-- 🔗 [GatherPass](https://github.com/Praveenskg/GatherPass) – Event manager app using Next.js, Supabase, and Stripe.
-- 📰 [Portfolio Blog](https://github.com/Praveenskg/portfolio) – Modern blog using App Router, MDX, and TailwindCSS.
-
-
-
- ![GitHub followers](https://img.shields.io/github/followers/Praveenskg?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Praveenskg/portfolio?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/Praveenskg/portfolio)
-
- ---
 ### 📊 GitHub Stats
 
-<details>
- <summary>:zap: GitHub Stats</summary>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenskg&rank_icon=github&theme=dracula&hide_border=false&&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenskg&layout=donut&theme=dracula&hide_border=false" height="180"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=praveenskg&rank_icon=github&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenskg&theme=dracula" height="180"/>
+    </td>
+     <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenskg&layout=donut&theme=dracula&hide_border=false" height="180"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenskg&theme=dracula&area=true&hide_border=false" />
 </p>
-</details>
