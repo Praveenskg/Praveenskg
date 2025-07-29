@@ -50,7 +50,7 @@
 ### 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenskg&theme=dracula" height="180"/>
+  <img src="https://github-readme-praveen.vercel.app/?user=Praveenskg&theme=dracula" height="180"/>
 </p>
 
 ---
