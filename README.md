@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+%F0%9F%91%8B;I%E2%80%99m+Praveen+Singh;Fullstack+Engineer+Here+%F0%9F%9A%80;Let%E2%80%99s+Build+Something+Cool" alt="Typing SVG" />
 </p>
  
-[![Github](https://img.shields.io/github/followers/Praveenskg?label=Follow&style=social)](https://github.com/praveenskg)
+[![Github](https://img.shields.io/github/followers/Praveenskg?label=Followers&style=social)](https://github.com/praveenskg)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/praveenskg/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/its_praveen_s?style=social)](https://x.com/its_praveen_s)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-E4405F?style=social&logo=instagram)](https://www.instagram.com/o_its_praveen)
