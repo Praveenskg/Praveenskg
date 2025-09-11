@@ -24,7 +24,7 @@
 ### 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,git,github,mongodb,mysql,supabase,vscode" />
+  <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,reactjs,nextjs,nodejs,tailwindcss,chakraui,git,github,mongodb,supabase,visualstudiocode,linux" />
 </p>
 
 ---
