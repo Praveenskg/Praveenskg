@@ -10,16 +10,17 @@
 [![Website](https://img.shields.io/badge/Portfolio-green?&logo=vercel)](https://praveenskg.vercel.app)
 [![Email](https://img.shields.io/badge/Email-ContactMe-informational?&logo=gmail)](mailto:praveencdg@gmail.com)
 ![Profile Count](https://komarev.com/ghpvc/?username=praveenskg)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=praveenskg.praveenskg&left_color=gray&right_color=blue)
+
 ---
 
 ## 🚀 About Me
-- **Full Stack Developer** passionate about building scalable, high-performance apps  
-- 📚 Always exploring **Next.js, TypeScript, backend optimizations**  
-- 💻 Love exploring new tech stacks & building SaaS tools  
-- 📖 Read documentation like it's the morning newspaper 📰  
-- 🎯 Goal: Build **developer-first products**  
-- ⚡ Fun fact: `==` is not always equal to `===` in JavaScript 🤣  
+
+- **Full Stack Developer** passionate about building scalable, high-performance apps
+- 📚 Always exploring **Next.js, TypeScript, backend optimizations**
+- 💻 Love exploring new tech stacks & building SaaS tools
+- 📖 Read documentation like it's the morning newspaper 📰
+- 🎯 Goal: Build **developer-first products**
+- ⚡ Fun fact: `==` is not always equal to `===` in JavaScript 🤣
 
 ---
 
@@ -27,15 +28,17 @@
 
 - [**react-night-toggle**](https://github.com/praveenskg/react-night-toggle) → A lightweight dark/light mode switch for React apps 🌙☀️  
   ![npm](https://img.shields.io/npm/dm/react-night-toggle?color=blue&label=downloads)  
-  ![npm](https://img.shields.io/npm/v/react-night-toggle?color=orange&label=version)  
+  ![npm](https://img.shields.io/npm/v/react-night-toggle?color=orange&label=version)
 
-- [**Smart Tools**](https://github.com/praveenskg/smart-tools) → A collection of handy developer utilities 🛠️  
+- [**Smart Tools**](https://github.com/praveenskg/smart-tools) → A collection of handy developer utilities 🛠️
 
 - [**Codescrolls**](https://codescrolls.site) → Developer-focused blogs, guides, and best practices 📚✨  
   ![Website](https://img.shields.io/badge/Visit-Site-green?logo=vercel)
+
 ---
 
 ## 🧰 Tools & Technologies
+
 <p align="center">
   <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,reactjs,nextjs,nodejs,tailwindcss,chakraui,git,github,mongodb,supabase,markdown,visualstudiocode,linux" />
 </p>
@@ -43,6 +46,7 @@
 ---
 
 ## 💬 Quote of the Day
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
@@ -50,6 +54,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://praveenskg-github.vercel.app/api?username=praveenskg&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula"  height="180"/>
   <img src="https://praveenskg-github.vercel.app/api/top-langs?username=praveenskg&layout=donut&theme=dracula&hide_border=false" height="180"/>
@@ -58,6 +63,7 @@
 ---
 
 ## 🔥 GitHub Streak
+
 <p align="center">
   <img src="https://github-readme-praveen.vercel.app/?user=praveenskg&theme=dracula" height="180"/>
 </p>
@@ -65,6 +71,7 @@
 ---
 
 ## 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenskg&theme=dracula&area=true&hide_border=false" />
 </p>
@@ -79,6 +86,7 @@
 ---
 
 ## 💡 Let's Connect
+
 ⭐ Don't forget to **star my repos** if you find them useful!  
 📩 Open to collaboration on **Open Source & SaaS ideas**.  
 💬 Feel free to reach out for discussions, questions, or just to say hi!
