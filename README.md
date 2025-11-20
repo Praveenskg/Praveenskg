@@ -30,7 +30,7 @@
   ![npm](https://img.shields.io/npm/dm/react-night-toggle?color=blue&label=downloads)  
   ![npm](https://img.shields.io/npm/v/react-night-toggle?color=orange&label=version)
 
-- [**Smart Tools**](https://github.com/praveenskg/smart-tools) → A collection of handy developer utilities 🛠️
+- [**Toolifylab**](https://github.com/praveenskg/toolifylab) → A collection of handy developer utilities 🛠️
 
 - [**Codescrolls**](https://codescrolls.site) → Developer-focused blogs, guides, and best practices 📚✨  
   ![Website](https://img.shields.io/badge/Visit-Site-green?logo=vercel)
