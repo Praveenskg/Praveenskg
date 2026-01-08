@@ -45,11 +45,31 @@
 
 ---
 
-## 💬 Quote of the Day
+<!-- ## 💬 Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</p> -->
+
+## 🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟
+
+
+
+
+
+
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=Those%20who%20cannot%20change%20their%20minds%20cannot%20change%20anything.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+
+
+
+
 
 ---
 
@@ -76,14 +96,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenskg&theme=dracula&area=true&hide_border=false" />
 </p>
 
----
-
-<details>
+<!-- <details>
   <summary>🐍 GitHub Contribution Snake</summary>
   <img src="https://raw.githubusercontent.com/praveenskg/praveenskg/output/snake.svg" width="100%" alt="Snake animation"/>
 </details>
 
----
+--- -->
 
 ## 💡 Let's Connect
 

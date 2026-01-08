@@ -1,0 +1,40 @@
+name: Update Quote
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 6 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    env:
+      GIT_USERNAME: ${{ secrets.GIT_USERNAME }}
+      GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update Quote
+        run: node update-quote.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "$GIT_USERNAME"
+          git config user.email "$GIT_EMAIL"
+
+          git add README.md
+          git commit -m "chore: update README with daily quote" || echo "No changes to commit"
+          git push
