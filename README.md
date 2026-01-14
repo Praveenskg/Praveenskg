@@ -67,11 +67,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%20Jr.&quote=The%20path%20is%20difficult%20to%20ensure%20worthiness.%20The%20lazy%20look%20elsewhere%2C%20The%20persevering%20find%20riches.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jeff%20Bezos&quote=Do%20not%20go%20where%20the%20path%20may%20lead%2C%20go%20instead%20where%20there%20is%20no%20path%20and%20leave%20a%20trail.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
