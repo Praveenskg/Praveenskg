@@ -74,11 +74,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Desmond%20Tutu&quote=Some%20people%20dream%20of%20success%2C%20while%20others%20wake%20up%20and%20work%20hard%20at%20it.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=In%20a%20world%20of%20change%2C%20the%20learners%20shall%20inherit%20the%20earth%2C%20while%20the%20learned%20shall%20find%20themselves%20perfectly%20suited%20for%20a%20world%20that%20no%20longer%20exists.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
