@@ -76,11 +76,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=You%20can%20suffer%20the%20pain%20of%20change%20or%20suffer%20remaining%20the%20way%20you%20are.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=Better%20to%20light%20a%20candle%20than%20to%20curse%20the%20darkness.%20&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
