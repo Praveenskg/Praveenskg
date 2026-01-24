@@ -77,11 +77,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=Better%20to%20light%20a%20candle%20than%20to%20curse%20the%20darkness.%20&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=The%20truth...%20It%20is%20a%20beautiful%20and%20terrible%20thing%2C%20and%20should%20therefore%20be%20treated%20with%20great%20caution.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
