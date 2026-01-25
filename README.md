@@ -78,11 +78,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=The%20truth...%20It%20is%20a%20beautiful%20and%20terrible%20thing%2C%20and%20should%20therefore%20be%20treated%20with%20great%20caution.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=We%20have%20a%20choice%20everyday%20regarding%20the%20attitude%20we%20will%20embrace%20for%20that%20day.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
