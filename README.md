@@ -85,11 +85,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=Spend%20eighty%20percent%20of%20your%20time%20focusing%20on%20the%20opportunities%20of%20tomorrow%20rather%20than%20the%20problems%20of%20yesterday.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Karl%20Marx&quote=You%20don't%20know%20who%20is%20important%20to%20you%20until%20you%20actually%20lose%20them.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
