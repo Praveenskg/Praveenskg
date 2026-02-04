@@ -88,11 +88,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=Teachers%20open%20the%20door.%20You%20enter%20by%20yourself.%20&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Hamilton&quote=True%20friendship%20ought%20never%20to%20conceal%20what%20it%20thinks.%20&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
