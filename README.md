@@ -90,11 +90,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Dylan&quote=One%20is%20never%20afraid%20of%20the%20unknown%3B%20one%20is%20afraid%20of%20the%20known%20coming%20to%20an%20end.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=To%20seek%20is%20to%20suffer.%20To%20seek%20nothing%20is%20bliss.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
