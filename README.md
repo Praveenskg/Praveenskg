@@ -93,11 +93,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Sebastian%20Bach&quote=Find%20the%20game%20where%20you%20can%20win%2C%20and%20then%20commit%20your%20life%20to%20playing%20it%3B%20and%20play%20to%20win.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=Do%20Something.%20If%20it%20works%2C%20do%20more%20of%20it.%20If%20it%20doesn't%2C%20do%20something%20else.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
