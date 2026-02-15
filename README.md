@@ -99,11 +99,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Abraham%20Lincoln&quote=The%20primary%20point%20of%20this%20existence%20is%20to%20live%2C%20and%20all%20living%20things%20move%20and%20grow.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bill%20Gates&quote=The%20only%20problem%20we%20really%20have%20is%20we%20think%20we're%20not%20supposed%20to%20have%20problems!%20Problems%20call%20us%20to%20higher%20level-%20-%20face%20%26amp%3B%20solve%20them%20now!&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
