@@ -107,11 +107,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Grace%20Hopper&quote=Learn%20the%20rules%20like%20a%20pro%2C%20so%20you%20can%20break%20them%20like%20an%20artist.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Columbus&quote=Excuses%20are%20the%20lies%20you%20convince%20yourself%20are%20true%20to%20avoid%20proving%20you%20are%20worthy%20of%20the%20gift%20you%20were%20given.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
