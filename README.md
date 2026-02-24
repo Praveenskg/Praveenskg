@@ -108,11 +108,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Columbus&quote=Excuses%20are%20the%20lies%20you%20convince%20yourself%20are%20true%20to%20avoid%20proving%20you%20are%20worthy%20of%20the%20gift%20you%20were%20given.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=The%20only%20person%20you%20should%20try%20to%20be%20better%20than%20is%20the%20person%20you%20were%20yesterday.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
