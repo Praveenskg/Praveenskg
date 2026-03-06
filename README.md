@@ -118,11 +118,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Karl%20Marx&quote=By%20seeking%20and%20blundering%20we%20learn.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tom%20Brady&quote=If%20the%20happiness%20and%20prosperity%20of%20other%20people%20depend%20on%20you%2C%20you%20have%20nothing%20to%20fear%20anymore.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
