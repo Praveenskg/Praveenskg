@@ -119,11 +119,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tom%20Brady&quote=If%20the%20happiness%20and%20prosperity%20of%20other%20people%20depend%20on%20you%2C%20you%20have%20nothing%20to%20fear%20anymore.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sylvester%20Stallone&quote=Most%20people%20fail%20in%20life%20because%20they%20major%20in%20minor%20things.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
