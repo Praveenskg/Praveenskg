@@ -120,11 +120,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sylvester%20Stallone&quote=Most%20people%20fail%20in%20life%20because%20they%20major%20in%20minor%20things.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=Hope%20means%20hoping%20when%20everything%20seems%20hopeless.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
