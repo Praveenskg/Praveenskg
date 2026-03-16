@@ -128,11 +128,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%20Jr.&quote=Take%20interest%20and%20even%20delight%20in%20doing%20the%20small%20things%20well.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Larry%20Page&quote=Think%20of%20yourself%20as%20dead.%20you%20have%20lived%20your%20life.%20Now%2C%20take%20what's%20left%2C%20and%20live%20it%20properly.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
