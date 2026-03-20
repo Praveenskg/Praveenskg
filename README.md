@@ -132,11 +132,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=An%20inventor%20is%20a%20man%20who%20asks%20Why%3F%20of%20the%20universe%20and%20lets%20nothing%20stand%20between%20the%20answer%20and%20his%20mind.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=Happiness%20is%20not%20something%20ready%20made.%20It%20comes%20from%20your%20own%20actions.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
