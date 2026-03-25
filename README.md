@@ -137,11 +137,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bill%20Gates&quote=Pleasure%20can%20be%20supported%20by%20an%20illusion%3B%20but%20happiness%20rests%20upon%20truth.%20&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=The%20ladder%20of%20success%20is%20best%20climbed%20by%20stepping%20on%20the%20rungs%20of%20opportunity.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
