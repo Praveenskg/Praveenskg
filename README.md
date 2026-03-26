@@ -139,11 +139,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Queen%20Elizabeth%20II&quote=It's%20not%20the%20love%20you%20make.%20It's%20the%20love%20you%20give.%20&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ted%20Nelson&quote=A%20user%20interface%20should%20be%20so%20simple%20that%20a%20beginner%20in%20an%20emergency%20can%20understand%20it%20within%2010%20seconds.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
