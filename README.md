@@ -138,11 +138,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Praveen%20Singh&quote=The%20ladder%20of%20success%20is%20best%20climbed%20by%20stepping%20on%20the%20rungs%20of%20opportunity.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Queen%20Elizabeth%20II&quote=It's%20not%20the%20love%20you%20make.%20It's%20the%20love%20you%20give.%20&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
