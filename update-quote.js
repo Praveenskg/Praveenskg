@@ -4,15 +4,16 @@ async function updateQuote() {
   try {
     const quotes = require("./quotes.json");
     const randomIndex = Math.floor(Math.random() * quotes.length);
-    const { quote, author } = quotes[randomIndex];
+    const { text, author } = quotes[randomIndex];
+    const quote = text.trim();
 
     const cardDesign = `
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(
-      author
+      author,
     )}&quote=${encodeURIComponent(
-      quote
+      quote,
     )}&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
@@ -23,7 +24,7 @@ async function updateQuote() {
 
     readmeContent = readmeContent.replace(
       /<!--STARTS_HERE_QUOTE_CARD-->(.|\n)*<!--ENDS_HERE_QUOTE_CARD-->/,
-      cardDesign
+      cardDesign,
     );
 
     fs.writeFileSync(readmePath, readmeContent);
