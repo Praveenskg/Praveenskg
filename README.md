@@ -140,11 +140,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ted%20Nelson&quote=A%20user%20interface%20should%20be%20so%20simple%20that%20a%20beginner%20in%20an%20emergency%20can%20understand%20it%20within%2010%20seconds.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=David%20Leinweber&quote=If%20you%20give%20someone%20a%20program%2C%20you%20will%20frustrate%20them%20for%20a%20day%3B%20if%20you%20teach%20them%20how%20to%20program%2C%20you%20will%20frustrate%20them%20for%20a%20lifetime.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
