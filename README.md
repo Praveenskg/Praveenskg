@@ -144,11 +144,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Boole&quote=Of%20the%20many%20forms%20of%20false%20culture%2C%20a%20premature%20converse%20with%20abstractions%20is%20perhaps%20the%20most%20likely%20to%20prove%20fatal%20to%20the%20growth%20of%20a%20masculine%20vigour%20of%20intellect.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bjarne%20Stroustrup&quote=There%20are%20only%20two%20kinds%20of%20languages%3A%20the%20ones%20people%20complain%20about%20and%20the%20ones%20nobody%20uses.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
