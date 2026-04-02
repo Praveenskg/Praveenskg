@@ -146,11 +146,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Donald%20Knuth&quote=I%E2%80%99ll%20use%20dirty%20tricks%20for%20two%20reasons.%20One%20is%2C%20if%20it%E2%80%99s%20really%20going%20to%20give%20me%20a%20performance%20improvement.%20Or%20sometimes%20just%20for%20pure%20pleasure.%20In%20any%20case%2C%20I%20document%20it%3B%20I%20don%E2%80%99t%20just%20put%20it%20in%20there.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Butler%20Lampson&quote=In%20handling%20resources%2C%20strive%20to%20avoid%20disaster%20rather%20than%20to%20attain%20an%20optimum.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
