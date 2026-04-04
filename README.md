@@ -148,11 +148,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Edsger%20W.%20Dijkstra&quote=The%20competent%20programmer%20is%20fully%20aware%20of%20the%20strictly%20limited%20size%20of%20his%20own%20skull%3B%20therefore%20he%20approaches%20the%20programming%20task%20in%20full%20humility%2C%20and%20among%20other%20things%20he%20avoids%20clever%20tricks%20like%20the%20plague&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=L.%20Peter%20Deutsch&quote=I%20would%20make%20a%20strong%20case%20that%20programming%20languages%20have%20not%20improved%20qualitatively%20in%20the%20last%2040%20years.%20There%20is%20no%20programming%20language%20in%20use%20today%20that%20is%20qualitatively%20better%20than%20Simula-67.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
