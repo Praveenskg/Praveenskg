@@ -149,11 +149,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=L.%20Peter%20Deutsch&quote=I%20would%20make%20a%20strong%20case%20that%20programming%20languages%20have%20not%20improved%20qualitatively%20in%20the%20last%2040%20years.%20There%20is%20no%20programming%20language%20in%20use%20today%20that%20is%20qualitatively%20better%20than%20Simula-67.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bjarne%20Stroustrup&quote=The%20most%20important%20single%20aspect%20of%20software%20development%20is%20to%20be%20clear%20about%20what%20you%20are%20trying%20to%20build.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
