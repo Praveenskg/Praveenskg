@@ -151,11 +151,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marvin%20Minsky&quote=Computer%20languages%20of%20the%20future%20will%20be%20more%20concerned%20with%20goals%20and%20less%20with%20procedures%20specified%20by%20the%20programmer.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joseph%20Yoder%20(computer%20scientist)&quote=When%20you%20build%20a%20prototype%2C%20there%20is%20always%20the%20risk%20that%20someone%20will%20say%20%22that's%20good%20enough%2C%20ship%20it%22.%20One%20way%20to%20minimize%20the%20risk%20of%20a%20prototype%20being%20put%20into%20production%20is%20to%20write%20the%20prototype%20in%20using%20a%20language%20or%20tool%20that%20you%20couldn't%20possibly%20use%20for%20a%20production%20version.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
