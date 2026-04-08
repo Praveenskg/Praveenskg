@@ -152,11 +152,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joseph%20Yoder%20(computer%20scientist)&quote=When%20you%20build%20a%20prototype%2C%20there%20is%20always%20the%20risk%20that%20someone%20will%20say%20%22that's%20good%20enough%2C%20ship%20it%22.%20One%20way%20to%20minimize%20the%20risk%20of%20a%20prototype%20being%20put%20into%20production%20is%20to%20write%20the%20prototype%20in%20using%20a%20language%20or%20tool%20that%20you%20couldn't%20possibly%20use%20for%20a%20production%20version.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Warnock&quote=Don%E2%80%99t%20go%20into%20a%20two-year%20development%20with%20nothing%20coming%20out%20in%20the%20middle.%20Have%20something%20come%20out%20every%20two%20months%2C%20so%20you%20can%20evaluate%2C%20regroup%2C%20and%20restart.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
