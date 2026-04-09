@@ -153,11 +153,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Warnock&quote=Don%E2%80%99t%20go%20into%20a%20two-year%20development%20with%20nothing%20coming%20out%20in%20the%20middle.%20Have%20something%20come%20out%20every%20two%20months%2C%20so%20you%20can%20evaluate%2C%20regroup%2C%20and%20restart.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=It%20is%20hard%20to%20think%20that%20a%20%242%20billion%20company%20with%204%2C300-plus%20people%20couldn't%20compete%20with%20six%20people%20in%20blue%20jeans.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
