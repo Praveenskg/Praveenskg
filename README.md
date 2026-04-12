@@ -156,11 +156,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Edsger%20W.%20Dijkstra&quote=If%20debugging%20is%20the%20process%20of%20removing%20software%20bugs%2C%20then%20programming%20must%20be%20the%20process%20of%20putting%20them%20in.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Boole&quote=Of%20the%20many%20forms%20of%20false%20culture%2C%20a%20premature%20converse%20with%20abstractions%20is%20perhaps%20the%20most%20likely%20to%20prove%20fatal%20to%20the%20growth%20of%20a%20masculine%20vigour%20of%20intellect.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
