@@ -158,11 +158,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Doug%20Linder&quote=A%20good%20programmer%20is%20someone%20who%20looks%20both%20ways%20before%20crossing%20a%20one-way%20street.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tim%20Berners-Lee&quote=I%20just%20had%20to%20take%20the%20hypertext%20idea%20and%20connect%20it%20to%20the%20TCP%20and%20DNS%20ideas%20and%20%E2%80%94%20ta-da!%E2%80%94%20the%20World%20Wide%20Web.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
