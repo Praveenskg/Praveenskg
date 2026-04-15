@@ -159,11 +159,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tim%20Berners-Lee&quote=I%20just%20had%20to%20take%20the%20hypertext%20idea%20and%20connect%20it%20to%20the%20TCP%20and%20DNS%20ideas%20and%20%E2%80%94%20ta-da!%E2%80%94%20the%20World%20Wide%20Web.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gottfried%20Wilhelm%20Leibniz&quote=As%20numbers%20are%20reduced%20to%20the%20simplest%20principles%2C%20like%200%20and%201%2C%20a%20wonderful%20order%20is%20apparent%20throughout.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
