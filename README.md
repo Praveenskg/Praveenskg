@@ -161,11 +161,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Filipe%20Fortes&quote=Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20are%20also%20the%20murderer.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Edsger%20W.%20Dijkstra&quote=The%20competent%20programmer%20is%20fully%20aware%20of%20the%20strictly%20limited%20size%20of%20his%20own%20skull%3B%20therefore%20he%20approaches%20the%20programming%20task%20in%20full%20humility%2C%20and%20among%20other%20things%20he%20avoids%20clever%20tricks%20like%20the%20plague&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
