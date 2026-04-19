@@ -163,11 +163,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Douglas%20Crockford&quote=JavaScript%20is%20the%20only%20language%20that%20I'm%20aware%20of%20that%20people%20feel%20they%20don't%20need%20to%20learn%20before%20they%20start%20using%20it.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=First%2C%20my%20wife%2C%20my%20colleagues%2C%20and%20my%20editors%20find%20me%20to%20err%20far%20more%20often%20in%20optimism%20than%20in%20pessimism.%20I%20am%2C%20after%20all%2C%20a%20programmer%20by%20background%2C%20and%20optimism%20is%20an%20occupational%20disease%20of%20our%20craft.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
