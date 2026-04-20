@@ -164,11 +164,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=First%2C%20my%20wife%2C%20my%20colleagues%2C%20and%20my%20editors%20find%20me%20to%20err%20far%20more%20often%20in%20optimism%20than%20in%20pessimism.%20I%20am%2C%20after%20all%2C%20a%20programmer%20by%20background%2C%20and%20optimism%20is%20an%20occupational%20disease%20of%20our%20craft.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nathaniel%20Borenstein&quote=It%20should%20be%20noted%20that%20no%20ethically-trained%20software%20engineer%20would%20ever%20consent%20to%20write%20a%20DestroyBaghdad%20procedure.%20Basic%20professional%20ethics%20would%20instead%20require%20him%20to%20write%20a%20DestroyCity%20procedure%2C%20to%20which%20Baghdad%20could%20be%20given%20as%20a%20parameter.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
