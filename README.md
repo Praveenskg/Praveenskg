@@ -166,11 +166,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bjarne%20Stroustrup&quote=The%20most%20important%20single%20aspect%20of%20software%20development%20is%20to%20be%20clear%20about%20what%20you%20are%20trying%20to%20build.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Daniel%20T.%20Barry&quote=Thoroughly%20testing%20a%20program%20is%20impossible%20(requires%20unbounded%20number%20of%20test%20cases)%3B%20so%20try%20to%20choose%20test%20cases%20that%20will%20expose%20all%20errors.%20That%E2%80%99s%20very%20difficult%2C%20especially%20since%20we%20do%20not%20know%20what%20all%20the%20errors%20are%2C%20and%20if%20we%20did%2C%20we%20would%20not%20need%20the%20test%20cases!&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
