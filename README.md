@@ -167,11 +167,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Daniel%20T.%20Barry&quote=Thoroughly%20testing%20a%20program%20is%20impossible%20(requires%20unbounded%20number%20of%20test%20cases)%3B%20so%20try%20to%20choose%20test%20cases%20that%20will%20expose%20all%20errors.%20That%E2%80%99s%20very%20difficult%2C%20especially%20since%20we%20do%20not%20know%20what%20all%20the%20errors%20are%2C%20and%20if%20we%20did%2C%20we%20would%20not%20need%20the%20test%20cases!&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paul%20Graham%20(programmer)&quote=It's%20not%20so%20important%20what%20you%20work%20on%2C%20so%20long%20as%20you're%20not%20wasting%20your%20time.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
