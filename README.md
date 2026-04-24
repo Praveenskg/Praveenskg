@@ -168,11 +168,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paul%20Graham%20(programmer)&quote=It's%20not%20so%20important%20what%20you%20work%20on%2C%20so%20long%20as%20you're%20not%20wasting%20your%20time.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20C.%20Martin&quote=The%20ratio%20of%20time%20spent%20reading%20versus%20writing%20is%20well%20over%2010%20to%201.%20We%20are%20constantly%20reading%20old%20code%20as%20part%20of%20the%20effort%20to%20write%20new%20code.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
