@@ -169,11 +169,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20C.%20Martin&quote=The%20ratio%20of%20time%20spent%20reading%20versus%20writing%20is%20well%20over%2010%20to%201.%20We%20are%20constantly%20reading%20old%20code%20as%20part%20of%20the%20effort%20to%20write%20new%20code.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=Sackman%2C%20Erickson%2C%20and%20Grant%20were%20measuring%20performance%20of%20a%20group%20of%20experienced%20programmers.%20Within%20just%20this%20group%20the%20ratios%20between%20the%20best%20and%20worst%20performances%20averaged%20about%2010%3A1%20on%20productivity%20measurements%20and%20an%20amazing%205%3A1%20on%20program%20speed%20and%20space%20measurements!&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
