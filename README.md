@@ -170,11 +170,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=Sackman%2C%20Erickson%2C%20and%20Grant%20were%20measuring%20performance%20of%20a%20group%20of%20experienced%20programmers.%20Within%20just%20this%20group%20the%20ratios%20between%20the%20best%20and%20worst%20performances%20averaged%20about%2010%3A1%20on%20productivity%20measurements%20and%20an%20amazing%205%3A1%20on%20program%20speed%20and%20space%20measurements!&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Edsger%20W.%20Dijkstra&quote=If%20you%20want%20more%20effective%20programmers%2C%20you%20will%20discover%20that%20they%20should%20not%20waste%20their%20time%20debugging%2C%20they%20should%20not%20introduce%20the%20bugs%20to%20start%20with.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
