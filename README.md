@@ -171,11 +171,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Edsger%20W.%20Dijkstra&quote=If%20you%20want%20more%20effective%20programmers%2C%20you%20will%20discover%20that%20they%20should%20not%20waste%20their%20time%20debugging%2C%20they%20should%20not%20introduce%20the%20bugs%20to%20start%20with.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Boole&quote=That%20language%20is%20an%20instrument%20of%20human%20reason%2C%20and%20not%20merely%20a%20medium%20for%20the%20expression%20of%20thought%2C%20is%20a%20truth%20generally%20admitted.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
