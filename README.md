@@ -172,11 +172,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Boole&quote=That%20language%20is%20an%20instrument%20of%20human%20reason%2C%20and%20not%20merely%20a%20medium%20for%20the%20expression%20of%20thought%2C%20is%20a%20truth%20generally%20admitted.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Daniel%20T.%20Barry&quote=The%20key%20to%20keeping%20software%20costs%20down%20is%20to%20write%20code%20that%20is%20easily%20modified.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
