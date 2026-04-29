@@ -173,11 +173,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Daniel%20T.%20Barry&quote=The%20key%20to%20keeping%20software%20costs%20down%20is%20to%20write%20code%20that%20is%20easily%20modified.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Kernighan&quote=Debugging%20is%20twice%20as%20hard%20as%20writing%20the%20code%20in%20the%20first%20place.%20Therefore%2C%20if%20you%20write%20the%20code%20as%20cleverly%20as%20possible%2C%20you%20are%2C%20by%20definition%2C%20not%20smart%20enough%20to%20debug%20it.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
