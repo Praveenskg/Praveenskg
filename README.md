@@ -176,11 +176,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=AI%20is%20a%20fundamental%20risk%20to%20the%20existence%20of%20human%20civilization.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Perlis&quote=Educators%2C%20generals%2C%20dieticians%2C%20psychologists%2C%20and%20parents%20program.%20Armies%2C%20students%2C%20and%20some%20societies%20are%20programmed.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
