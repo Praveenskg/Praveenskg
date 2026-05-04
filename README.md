@@ -178,11 +178,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=Having%20a%20system%20architect%20is%20the%20most%20important%20single%20step%20toward%20conceptual%20integrity.%20After%20teaching%20a%20software%20engineering%20laboratory%20more%20than%2020%20times%2C%20I%20came%20to%20insist%20that%20student%20teams%20as%20small%20as%20four%20people%20choose%20a%20manager%20and%20a%20separate%20architect.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=What%20one%20programmer%20can%20do%20in%20one%20month%2C%20two%20programmers%20can%20do%20in%20two%20months.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
