@@ -179,11 +179,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=What%20one%20programmer%20can%20do%20in%20one%20month%2C%20two%20programmers%20can%20do%20in%20two%20months.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Boole&quote=That%20language%20is%20an%20instrument%20of%20human%20reason%2C%20and%20not%20merely%20a%20medium%20for%20the%20expression%20of%20thought%2C%20is%20a%20truth%20generally%20admitted.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
