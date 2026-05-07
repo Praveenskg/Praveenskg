@@ -181,11 +181,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bill%20Gates&quote=Your%20most%20unhappy%20customers%20are%20your%20greatest%20source%20of%20learning.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pamela%20Zave&quote=The%20purpose%20of%20software%20engineering%20is%20to%20control%20complexity%2C%20not%20to%20create%20it.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
