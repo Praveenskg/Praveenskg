@@ -183,11 +183,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=L.%20Peter%20Deutsch&quote=Software%20is%20a%20discipline%20of%20detail%2C%20and%20that%20is%20a%20deep%2C%20horrendous%20fundamental%20problem%20with%20software.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Stallman&quote=In%20fact%2C%20in%20the%201980s%20I%20often%20came%20across%20newly%20graduated%20computer%20science%20majors%20who%20had%20never%20seen%20a%20real%20program%20in%20their%20lives.%20They%20had%20only%20seen%20toy%20exercises%2C%20school%20exercises%2C%20because%20every%20real%20program%20was%20a%20trade%20secret.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
