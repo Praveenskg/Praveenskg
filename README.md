@@ -184,11 +184,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Stallman&quote=In%20fact%2C%20in%20the%201980s%20I%20often%20came%20across%20newly%20graduated%20computer%20science%20majors%20who%20had%20never%20seen%20a%20real%20program%20in%20their%20lives.%20They%20had%20only%20seen%20toy%20exercises%2C%20school%20exercises%2C%20because%20every%20real%20program%20was%20a%20trade%20secret.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Donald%20Knuth&quote=By%20understanding%20a%20machine-oriented%20language%2C%20the%20programmer%20will%20tend%20to%20use%20a%20much%20more%20efficient%20method%3B%20it%20is%20much%20closer%20to%20reality.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
