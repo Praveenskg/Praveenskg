@@ -185,11 +185,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Donald%20Knuth&quote=By%20understanding%20a%20machine-oriented%20language%2C%20the%20programmer%20will%20tend%20to%20use%20a%20much%20more%20efficient%20method%3B%20it%20is%20much%20closer%20to%20reality.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=A%20clever%20person%20solves%20a%20problem.%20A%20wise%20person%20avoids%20it.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
