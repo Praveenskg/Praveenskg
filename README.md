@@ -187,11 +187,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marijn%20Haverbeke&quote=Programming%2C%20it%20turns%20out%2C%20is%20hard.%20The%20fundamental%20rules%20are%20typically%20simple%20and%20clear.%20But%20programs%20built%20on%20top%20of%20these%20rules%20tend%20to%20become%20complex%20enough%20to%20introduce%20their%20own%20rules%20and%20complexity.%20You%E2%80%99re%20building%20your%20own%20maze%2C%20in%20a%20way%2C%20and%20you%20might%20just%20get%20lost%20in%20it.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Buckminster%20Fuller&quote=When%20I%20am%20working%20on%20a%20problem%20I%20never%20think%20about%20beauty.%20I%20think%20only%20how%20to%20solve%20the%20problem.%20But%20when%20I%20have%20finished%2C%20if%20the%20solution%20is%20not%20beautiful%2C%20I%20know%20it%20is%20wrong.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
