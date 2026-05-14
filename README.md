@@ -188,11 +188,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Buckminster%20Fuller&quote=When%20I%20am%20working%20on%20a%20problem%20I%20never%20think%20about%20beauty.%20I%20think%20only%20how%20to%20solve%20the%20problem.%20But%20when%20I%20have%20finished%2C%20if%20the%20solution%20is%20not%20beautiful%2C%20I%20know%20it%20is%20wrong.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Perlis&quote=A%20year%20spent%20in%20artificial%20intelligence%20is%20enough%20to%20make%20one%20believe%20in%20God.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
