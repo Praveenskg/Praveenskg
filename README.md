@@ -191,11 +191,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jan%20L.%20A.%20van%20de%20Snepscheut&quote=In%20theory%2C%20there%20is%20no%20difference%20between%20theory%20and%20practice.%20But%2C%20in%20practice%2C%20there%20is.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Donald%20Knuth&quote=A%20programmer%20who%20subconsciously%20views%20himself%20as%20an%20artist%20will%20enjoy%20what%20he%20does%20and%20will%20do%20it%20better.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
