@@ -192,11 +192,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Donald%20Knuth&quote=A%20programmer%20who%20subconsciously%20views%20himself%20as%20an%20artist%20will%20enjoy%20what%20he%20does%20and%20will%20do%20it%20better.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Daniel%20T.%20Barry&quote=Programming%20is%20at%20least%20as%20difficult%20as%20developing%20a%20mathematical%20theory.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
