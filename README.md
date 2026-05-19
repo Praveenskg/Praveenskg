@@ -193,11 +193,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Daniel%20T.%20Barry&quote=Programming%20is%20at%20least%20as%20difficult%20as%20developing%20a%20mathematical%20theory.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marijn%20Haverbeke&quote=Computers%20themselves%20can%20do%20only%20stupidly%20straightforward%20things.%20The%20reason%20they%20are%20so%20useful%20is%20that%20they%20do%20these%20things%20at%20an%20incredibly%20high%20speed.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
