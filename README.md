@@ -194,11 +194,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marijn%20Haverbeke&quote=Computers%20themselves%20can%20do%20only%20stupidly%20straightforward%20things.%20The%20reason%20they%20are%20so%20useful%20is%20that%20they%20do%20these%20things%20at%20an%20incredibly%20high%20speed.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bill%20Gates&quote=Your%20most%20unhappy%20customers%20are%20your%20greatest%20source%20of%20learning.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
