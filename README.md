@@ -196,11 +196,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Never%20memorize%20something%20that%20you%20can%20look%20up.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Terry%20Winograd&quote=The%20techniques%20of%20artificial%20intelligence%20are%20to%20the%20mind%20what%20bureaucracy%20is%20to%20human%20social%20interaction.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
