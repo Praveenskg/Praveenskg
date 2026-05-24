@@ -198,11 +198,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Douglas%20Crockford&quote=Software%20is%20usually%20expected%20to%20be%20modified%20over%20the%20course%20of%20its%20productive%20life.%20The%20process%20of%20converting%20one%20correct%20program%20into%20a%20different%20correct%20program%20is%20extremely%20challenging.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Grady%20Booch&quote=The%20entire%20history%20of%20software%20engineering%20is%20that%20of%20the%20rise%20in%20levels%20of%20abstraction.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
