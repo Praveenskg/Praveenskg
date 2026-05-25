@@ -199,11 +199,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Grady%20Booch&quote=The%20entire%20history%20of%20software%20engineering%20is%20that%20of%20the%20rise%20in%20levels%20of%20abstraction.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bjarne%20Stroustrup&quote=If%20you%20think%20it's%20simple%2C%20then%20you%20have%20misunderstood%20the%20problem.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
