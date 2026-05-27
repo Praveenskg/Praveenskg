@@ -201,11 +201,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=P.%20J.%20Plauger&quote=Hofstadter's%20Law%3A%20It%20always%20takes%20longer%20than%20you%20expect%2C%20even%20when%20you%20take%20into%20account%20Hofstadter's%20Law.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ada%20Lovelace&quote=The%20science%20of%20operations%2C%20as%20derived%20from%20mathematics%20more%20especially%2C%20is%20a%20science%20of%20itself%2C%20and%20has%20its%20own%20abstract%20truth%20and%20value.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
