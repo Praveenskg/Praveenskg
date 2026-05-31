@@ -205,11 +205,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Linus%20Torvalds&quote=I%20will%2C%20in%20fact%2C%20claim%20that%20the%20difference%20between%20a%20bad%20programmer%20and%20a%20good%20one%20is%20whether%20he%20considers%20his%20code%20or%20his%20data%20structures%20more%20important.%20Bad%20programmers%20worry%20about%20the%20code.%20Good%20programmers%20worry%20about%20data%20structures%20and%20their%20relationships.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Friedrich%20Bauer&quote=Software%20engineering%20is%20the%20part%20of%20computer%20science%20which%20is%20too%20difficult%20for%20the%20computer%20scientist.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
