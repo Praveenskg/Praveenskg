@@ -206,11 +206,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Friedrich%20Bauer&quote=Software%20engineering%20is%20the%20part%20of%20computer%20science%20which%20is%20too%20difficult%20for%20the%20computer%20scientist.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Ratliff&quote=Programming%20is%20a%20little%20bit%20like%20the%20army.%20Now%20that%20I'm%20out%2C%20it's%20neat%20to%20have%20had%20the%20experience.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
