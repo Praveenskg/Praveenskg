@@ -207,11 +207,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Ratliff&quote=Programming%20is%20a%20little%20bit%20like%20the%20army.%20Now%20that%20I'm%20out%2C%20it's%20neat%20to%20have%20had%20the%20experience.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Addy%20Osmani&quote=Really%20care%20about%20the%20tools%20you%20use%20because%20they%20are%20what%20make%20you%20your%20best.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
