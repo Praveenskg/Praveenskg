@@ -209,11 +209,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Perlis&quote=Every%20program%20has%20(at%20least)%20two%20purposes%3A%20the%20one%20for%20which%20it%20was%20written%20and%20another%20for%20which%20it%20wasn't.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Butler%20Lampson&quote=Everything%20should%20be%20made%20as%20simple%20as%20possible.%20But%20to%20do%20that%20you%20have%20to%20master%20complexity.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
