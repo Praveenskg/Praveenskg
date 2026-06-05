@@ -210,11 +210,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Butler%20Lampson&quote=Everything%20should%20be%20made%20as%20simple%20as%20possible.%20But%20to%20do%20that%20you%20have%20to%20master%20complexity.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20C.%20Martin&quote=Cleaning%20code%20does%20NOT%20take%20time.%20NOT%20cleaning%20code%20does%20take%20time.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
