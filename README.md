@@ -212,11 +212,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Warnock&quote=To%20be%20successful%2C%20you%20want%20to%20surround%20yourself%20with%20very%20talented%20folks%20whose%20skills%20blend%20very%20well.%20That%E2%80%99s%20the%20secret%20of%20success.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joe%20Armstrong%20(programmer)&quote=If%20you%20start%20removing%20things%2C%20if%20you%20get%20to%20the%20point%20where%20if%20you%20were%20to%20remove%20anything%20more%20it%20would%20not%20work%20any%20more%20%E2%80%94%20at%20this%20point%20it%20is%20beautiful.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
