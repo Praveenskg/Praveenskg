@@ -215,11 +215,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=It%20is%20hard%20to%20think%20that%20a%20%242%20billion%20company%20with%204%2C300-plus%20people%20couldn't%20compete%20with%20six%20people%20in%20blue%20jeans.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Perlis&quote=A%20year%20spent%20in%20artificial%20intelligence%20is%20enough%20to%20make%20one%20believe%20in%20God.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
