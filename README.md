@@ -216,11 +216,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Perlis&quote=A%20year%20spent%20in%20artificial%20intelligence%20is%20enough%20to%20make%20one%20believe%20in%20God.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Douglas%20Crockford&quote=Good%20architecture%20is%20necessary%20to%20give%20programs%20enough%20structure%20to%20be%20able%20to%20grow%20large%20without%20collapsing%20into%20a%20puddle%20of%20confusion.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
