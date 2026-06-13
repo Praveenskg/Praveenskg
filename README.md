@@ -217,11 +217,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Douglas%20Crockford&quote=Good%20architecture%20is%20necessary%20to%20give%20programs%20enough%20structure%20to%20be%20able%20to%20grow%20large%20without%20collapsing%20into%20a%20puddle%20of%20confusion.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Carmack&quote=If%20you%20want%20to%20set%20off%20and%20go%20develop%20some%20grand%20new%20thing%2C%20you%20don't%20need%20millions%20of%20dollars%20of%20capitalization.%20You%20need%20enough%20pizza%20and%20Diet%20Coke%20to%20stick%20in%20your%20refrigerator%2C%20a%20cheap%20PC%20to%20work%20on%2C%20and%20the%20dedication%20to%20go%20through%20with%20it.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
