@@ -219,11 +219,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Parisi%20(software%20developer)&quote=A%20framework%20can%20provide%2090%25%20of%20the%20features%20we%20need%20quickly%20%E2%80%94%20giving%20us%20a%20false%20sense%20of%20confidence%20early%20in%20the%20development%20cycle%20%E2%80%94%20and%20then%20be%20frustratingly%20hard%20when%20it%20comes%20to%20implementing%20the%20last%2010%25.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=Because%20of%20optimism%2C%20we%20usually%20expect%20the%20number%20of%20bugs%20to%20be%20smaller%20than%20it%20turns%20out%20to%20be.%20Therefore%20testing%20is%20usually%20the%20most%20mis-scheduled%20part%20of%20programming.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
