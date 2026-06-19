@@ -220,11 +220,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=Because%20of%20optimism%2C%20we%20usually%20expect%20the%20number%20of%20bugs%20to%20be%20smaller%20than%20it%20turns%20out%20to%20be.%20Therefore%20testing%20is%20usually%20the%20most%20mis-scheduled%20part%20of%20programming.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gerald%20Weinberg&quote=If%20builders%20built%20houses%20the%20way%20programmers%20built%20programs%2C%20the%20first%20woodpecker%20to%20come%20along%20would%20destroy%20civilization.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
