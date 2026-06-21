@@ -221,11 +221,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gerald%20Weinberg&quote=If%20builders%20built%20houses%20the%20way%20programmers%20built%20programs%2C%20the%20first%20woodpecker%20to%20come%20along%20would%20destroy%20civilization.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Linus%20Torvalds&quote=If%20you%20think%20your%20users%20are%20idiots%2C%20only%20idiots%20will%20use%20it.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
