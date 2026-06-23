@@ -222,11 +222,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Linus%20Torvalds&quote=If%20you%20think%20your%20users%20are%20idiots%2C%20only%20idiots%20will%20use%20it.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ryan%20Singer&quote=So%20much%20complexity%20in%20software%20comes%20from%20trying%20to%20make%20one%20thing%20do%20two%20things.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
