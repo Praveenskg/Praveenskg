@@ -225,11 +225,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=What%20one%20programmer%20can%20do%20in%20one%20month%2C%20two%20programmers%20can%20do%20in%20two%20months.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paul%20Graham%20(programmer)&quote=There%20are%20few%20sources%20of%20energy%20so%20powerful%20as%20a%20procrastinating%20grad%20student.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
