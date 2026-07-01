@@ -226,11 +226,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paul%20Graham%20(programmer)&quote=There%20are%20few%20sources%20of%20energy%20so%20powerful%20as%20a%20procrastinating%20grad%20student.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ada%20Lovelace&quote=In%20the%20case%20of%20the%20Analytical%20Engine%2C%20we%20have%20undoubtedly%20to%20lay%20out%20a%20certain%20capital%20of%20analytical%20labour%20in%20one%20particular%20line%2C%20but%20this%20is%20in%20order%20that%20the%20engine%20may%20bring%20us%20in%20a%20much%20larger%20return%20in%20another%20line.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
