@@ -228,11 +228,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=David%20Parnas&quote=I%20have%20found%20that%20the%20reason%20a%20lot%20of%20people%20are%20interested%20in%20artificial%20intelligence%20is%20the%20same%20reason%20a%20lot%20of%20people%20are%20interested%20in%20artificial%20limbs%3A%20they%20are%20missing%20one.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Kildall&quote=It's%20fun%20to%20sit%20at%20a%20terminal%20and%20let%20the%20code%20flow.%20It%20sounds%20strange%2C%20but%20it%20just%20comes%20out%20my%20brain%3B%20once%20I'm%20started%2C%20I%20don't%20have%20to%20think%20about%20it.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
