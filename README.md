@@ -229,11 +229,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Kildall&quote=It's%20fun%20to%20sit%20at%20a%20terminal%20and%20let%20the%20code%20flow.%20It%20sounds%20strange%2C%20but%20it%20just%20comes%20out%20my%20brain%3B%20once%20I'm%20started%2C%20I%20don't%20have%20to%20think%20about%20it.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Donald%20Knuth&quote=We%20should%20forget%20about%20small%20efficiencies%2C%20say%20about%2097%25%20of%20the%20time%3A%20premature%20optimization%20is%20the%20root%20of%20all%20evil.%20Yet%20we%20should%20not%20pass%20up%20our%20opportunities%20in%20that%20critical%203%25.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
