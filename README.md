@@ -230,11 +230,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Donald%20Knuth&quote=We%20should%20forget%20about%20small%20efficiencies%2C%20say%20about%2097%25%20of%20the%20time%3A%20premature%20optimization%20is%20the%20root%20of%20all%20evil.%20Yet%20we%20should%20not%20pass%20up%20our%20opportunities%20in%20that%20critical%203%25.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bdale%20Garbee&quote=Life%20is%20too%20short%20to%20run%20proprietary%20software.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
