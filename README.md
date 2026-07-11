@@ -231,11 +231,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bdale%20Garbee&quote=Life%20is%20too%20short%20to%20run%20proprietary%20software.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Babbage&quote=We%20have%20already%20mentioned%20what%20may%2C%20perhaps%2C%20appear%20paradoxical%20to%20some%20of%20our%20readers%2C%20%E2%80%94%20that%20the%20division%20of%20labour%20can%20be%20applied%20with%20equal%20success%20to%20mental%20as%20to%20mechanical%20operations%2C%20and%20that%20it%20ensures%20in%20both%20the%20same%20economy%20of%20time.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
