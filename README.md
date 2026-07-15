@@ -233,11 +233,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Ratliff&quote=If%20I%20had%20followed%20my%20heart%20instead%20of%20advice%2C%20dBASE%20would%20be%20much%20closer%20to%20perfection%20today.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ken%20Olsen&quote=There%20is%20no%20reason%20anyone%20would%20want%20a%20computer%20in%20their%20home.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
