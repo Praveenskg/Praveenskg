@@ -234,11 +234,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ken%20Olsen&quote=There%20is%20no%20reason%20anyone%20would%20want%20a%20computer%20in%20their%20home.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Kildall&quote=If%20you%20learn%20how%20to%20solve%20problems%2C%20you%20can%20go%20through%20life%20and%20do%20pretty%20well.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
