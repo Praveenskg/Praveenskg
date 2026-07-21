@@ -236,11 +236,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20A.%20Jackson&quote=The%20beginning%20of%20wisdom%20for%20a%20programmer%20is%20to%20recognize%20the%20difference%20between%20getting%20his%20program%20to%20work%20and%20getting%20it%20right.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kevlin%20Henney&quote=Less%20code%20equals%20less%20bugs.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
