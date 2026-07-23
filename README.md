@@ -237,11 +237,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kevlin%20Henney&quote=Less%20code%20equals%20less%20bugs.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Douglas%20Crockford&quote=Readability%20of%20code%20is%20now%20my%20first%20priority.%20It%E2%80%99s%20more%20important%20than%20being%20fast%2C%20almost%20as%20important%20as%20being%20correct%2C%20but%20I%20think%20being%20readable%20is%20actually%20the%20most%20likely%20way%20of%20making%20it%20correct.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
