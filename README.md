@@ -239,11 +239,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ada%20Lovelace&quote=The%20Analytical%20Engine%20does%20not%20occupy%20common%20ground%20with%20mere%20'calculating%20machines.'%20It%20holds%20a%20position%20wholly%20its%20own%2C%20and%20the%20considerations%20it%20suggests%20are%20more%20interesting%20in%20their%20nature.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Harlan%20Mills&quote=The%20best%20way%20to%20know%20that%20you%20have%20found%20the%20last%20bug%20is%20never%20to%20find%20the%20first%20bug.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
