@@ -240,11 +240,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Harlan%20Mills&quote=The%20best%20way%20to%20know%20that%20you%20have%20found%20the%20last%20bug%20is%20never%20to%20find%20the%20first%20bug.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Hal%20Abelson&quote=The%20programs%20we%20use%20to%20conjure%20processes%20are%20like%20a%20sorcerer's%20spells.%20They%20are%20carefully%20composed%20from%20symbolic%20expressions%20in%20arcane%20and%20esoteric%20programming%20languages%20that%20prescribe%20the%20tasks%20we%20want%20our%20processes%20to%20perform.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
