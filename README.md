@@ -242,11 +242,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Randall%20E.%20Stross&quote=The%20best%20programmers%20are%20not%20marginally%20better%20than%20merely%20good%20ones.%20They%20are%20an%20order-of-magnitude%20better%2C%20measured%20by%20whatever%20standard%3A%20conceptual%20creativity%2C%20speed%2C%20ingenuity%20of%20design%2C%20or%20problem-solving%20ability.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Anonymous&quote=The%20best%20thing%20about%20a%20boolean%20is%20even%20if%20you%20are%20wrong%2C%20you%20are%20only%20off%20by%20a%20bit.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
