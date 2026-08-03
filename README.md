@@ -243,11 +243,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anonymous&quote=The%20best%20thing%20about%20a%20boolean%20is%20even%20if%20you%20are%20wrong%2C%20you%20are%20only%20off%20by%20a%20bit.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ron%20Jeffries&quote=Code%20never%20lies%2C%20comments%20sometimes%20do.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
