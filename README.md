@@ -448,8 +448,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://praveenskg-github.vercel.app/api?username=praveenskg&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula"  height="180"/>
-  <img src="https://praveenskg-github.vercel.app/api/top-langs?username=praveenskg&layout=donut&theme=dracula&hide_border=false" height="180"/>
+  <img src="https://ghstats.dev/api/card?username=Praveenskg&theme=dracula&border_radius=8" alt="GitHub Stats Card"/>
+  <img src="https://ghstats.dev/api/langs?username=Praveenskg&theme=dracula&layout=donut" alt="Top Languages" />
 </p>
 
 ---
