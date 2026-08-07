@@ -245,11 +245,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Donald%20Knuth&quote=I%20make%20mistakes%20because%20I%E2%80%99m%20always%20operating%20at%20my%20limit.%20If%20I%20only%20stay%20in%20comfortable%20territory%20all%20the%20time%2C%20that%E2%80%99s%20not%20so%20much%20fun.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Philip%20Greenspun&quote=SQL%2C%20Lisp%2C%20and%20Haskell%20are%20the%20only%20programming%20languages%20that%20I've%20seen%20where%20one%20spends%20more%20time%20thinking%20than%20typing.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
