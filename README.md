@@ -246,11 +246,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Philip%20Greenspun&quote=SQL%2C%20Lisp%2C%20and%20Haskell%20are%20the%20only%20programming%20languages%20that%20I've%20seen%20where%20one%20spends%20more%20time%20thinking%20than%20typing.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Douglas%20Crockford&quote=JavaScript%20is%20the%20world's%20most%20misunderstood%20programming%20language.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
