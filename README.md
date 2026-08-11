@@ -247,11 +247,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Douglas%20Crockford&quote=JavaScript%20is%20the%20world's%20most%20misunderstood%20programming%20language.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Daniel%20T.%20Barry&quote=Every%20time%20you%20improve%20process%2C%20work%20becomes%20harder.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
