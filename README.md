@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - **Full Stack Developer** passionate about building scalable, high-performance apps
 - 📚 Always exploring **Next.js, TypeScript, backend optimizations**
@@ -24,7 +24,7 @@
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 - [**react-night-toggle**](https://github.com/praveenskg/react-night-toggle) → A lightweight dark/light mode switch for React apps 🌙☀️  
   ![npm](https://img.shields.io/npm/dm/react-night-toggle?color=blue&label=downloads)  
@@ -37,7 +37,7 @@
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 <p align="center">
   <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,reactjs,nextjs,nodejs,tailwindcss,chakraui,git,github,mongodb,supabase,markdown,visualstudiocode,linux" />
@@ -51,203 +51,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p> -->
 
-## 🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Thought of the Day
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
@@ -255,218 +59,22 @@
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=Praveenskg&theme=dracula&border_radius=8" alt="GitHub Stats Card" height="180"/>
-  <img src="https://ghstats.dev/api/langs?username=Praveenskg&theme=dracula&layout=donut" alt="Top Languages"  height="180"/>
+  <img src="https://ghstats.dev/api/card?username=Praveenskg&theme=dracula&border_radius=8&" alt="GitHub Stats Card" height="180"/>
+  <img src="https://ghstats.dev/api/langs?username=Praveenskg&theme=dracula&layout=compact" alt="Top Languages"  height="180"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-praveen.vercel.app/?user=praveenskg&theme=dracula" height="180"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenskg&theme=dracula&area=true&hide_border=false"  height="180"/>
+  <img src="https://github-readme-praveen.vercel.app/?user=praveenskg&theme=dracula" width="420" height="180" alt="GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenskg&theme=dracula&area=true&hide_border=false" width="420" height="180" alt="GitHub activity graph" />
 </p>
 
 ---
@@ -481,7 +89,7 @@
 
 --- -->
 
-## 💡 Let's Connect
+## Let’s Connect
 
 ⭐ Don't forget to **star my repos** if you find them useful!  
 📩 Open to collaboration on **Open Source & SaaS ideas**.  
