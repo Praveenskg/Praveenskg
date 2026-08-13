@@ -248,11 +248,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Daniel%20T.%20Barry&quote=Every%20time%20you%20improve%20process%2C%20work%20becomes%20harder.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Niklaus%20Wirth&quote=Software%20gets%20slower%20faster%20than%20hardware%20gets%20faster.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
