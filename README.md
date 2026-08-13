@@ -456,8 +456,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=Praveenskg&theme=dracula&border_radius=8" alt="GitHub Stats Card"/>
-  <img src="https://ghstats.dev/api/langs?username=Praveenskg&theme=dracula&layout=donut" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/card?username=Praveenskg&theme=dracula&border_radius=8" alt="GitHub Stats Card" height="180"/>
+  <img src="https://ghstats.dev/api/langs?username=Praveenskg&theme=dracula&layout=donut" alt="Top Languages"  height="180"/>
 </p>
 
 ---
@@ -466,14 +466,12 @@
 
 <p align="center">
   <img src="https://github-readme-praveen.vercel.app/?user=praveenskg&theme=dracula" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenskg&theme=dracula&area=true&hide_border=false"  height="180"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenskg&theme=dracula&area=true&hide_border=false" />
 </p>
 
 <!-- <details>
