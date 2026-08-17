@@ -67,11 +67,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 ## Thought of the Day
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=The%20first%20false%20assumption%20that%20underlies%20the%20scheduling%20of%20systems%20programming%20is%20that%20all%20will%20go%20well%2C%20i.e.%2C%20that%20each%20task%20will%20hike%20only%20as%20long%20as%20it%20%22ought%22%20to%20take.%20A%20large%20programming%20effort%2C%20however%2C%20consists%20of%20many%20tasks%2C%20some%20chained%20end-to-end.%20The%20probability%20that%20each%20will%20go%20well%20becomes%20vanishingly%20small.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=Program%20building%20is%20an%20entropy-decreasing%20process%2C%20hence%20inherently%20metastable.%20Program%20maintenance%20is%20an%20entropy-increasing%20process%2C%20and%20even%20its%20most%20skillful%20execution%20only%20delays%20the%20subsidence%20of%20the%20system%20into%20unfixable%20obsolescence.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 ---
