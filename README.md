@@ -68,11 +68,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=Program%20building%20is%20an%20entropy-decreasing%20process%2C%20hence%20inherently%20metastable.%20Program%20maintenance%20is%20an%20entropy-increasing%20process%2C%20and%20even%20its%20most%20skillful%20execution%20only%20delays%20the%20subsidence%20of%20the%20system%20into%20unfixable%20obsolescence.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=Coding%20is%20%2290%20percent%20finished%22%20for%20half%20of%20the%20total%20coding%20time.%20Debugging%20is%20%2299%20percent%20complete%22%20most%20of%20the%20time.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
