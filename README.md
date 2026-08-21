@@ -69,11 +69,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=Coding%20is%20%2290%20percent%20finished%22%20for%20half%20of%20the%20total%20coding%20time.%20Debugging%20is%20%2299%20percent%20complete%22%20most%20of%20the%20time.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Danny%20Hillis&quote=Every%20computer%20language%20has%20its%20Shakespeares%2C%20and%20it%20is%20a%20joy%20to%20read%20their%20code.%20A%20well-written%20computer%20program%20possesses%20style%2C%20finesse%2C%20even%20humor%E2%80%94and%20a%20clarity%20that%20rivals%20the%20best%20prose.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
