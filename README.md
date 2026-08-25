@@ -71,11 +71,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Douglas%20Crockford&quote=Most%20programming%20languages%20contain%20good%20parts%20and%20bad%20parts.%20I%20discovered%20that%20I%20could%20be%20better%20programmer%20by%20using%20only%20the%20good%20parts%20and%20avoiding%20the%20bad%20parts.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Kildall&quote=When%20a%20program%20is%20clean%20and%20neat%2C%20nicely%20structured%2C%20and%20consistent%2C%20it%20can%20be%20beautiful.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
