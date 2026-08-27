@@ -72,11 +72,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Kildall&quote=When%20a%20program%20is%20clean%20and%20neat%2C%20nicely%20structured%2C%20and%20consistent%2C%20it%20can%20be%20beautiful.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Fred%20Brooks&quote=Maintenance%20cost%20is%20strongly%20affected%20by%20the%20number%20of%20users.%20More%20users%20find%20more%20bugs.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
