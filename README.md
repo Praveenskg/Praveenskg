@@ -76,11 +76,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Hamming&quote=The%20purpose%20of%20computing%20is%20insight%2C%20not%20numbers.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Warnock&quote=Don%E2%80%99t%20go%20into%20a%20two-year%20development%20with%20nothing%20coming%20out%20in%20the%20middle.%20Have%20something%20come%20out%20every%20two%20months%2C%20so%20you%20can%20evaluate%2C%20regroup%2C%20and%20restart.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
