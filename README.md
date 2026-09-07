@@ -78,11 +78,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Coplien&quote=You%20should%20name%20a%20variable%20using%20the%20same%20care%20with%20which%20you%20name%20a%20first-born%20child.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Sachs&quote=I%20don't%20like%20using%20any%20tools%20or%20programs%20I%20didn't%20write%20myself%20or%20that%20I%20don't%20have%20some%20control%20over.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
