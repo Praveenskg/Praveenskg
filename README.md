@@ -80,11 +80,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bill%20Gates&quote=Your%20most%20unhappy%20customers%20are%20your%20greatest%20source%20of%20learning.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maurice%20Wilkes&quote=It%20was%20on%20one%20of%20my%20journeys%20between%20the%20EDSAC%20room%20and%20the%20punching%20equipment%20the%20realization%20came%20over%20me%20with%20full%20force%20that%20a%20good%20part%20of%20the%20remainder%20of%20my%20life%20was%20going%20to%20be%20spent%20in%20finding%20errors%20in%20my%20own%20programs.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
