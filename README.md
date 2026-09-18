@@ -110,11 +110,11 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 ---
 
-## GitHub Stats & Languages
+## GitHub Stats
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=Praveenskg&theme=dracula&border_radius=8" alt="GitHub Stats Card" height="180"/>
-  <img src="https://ghstats.dev/api/langs?username=Praveenskg&theme=dracula&layout=compact" alt="Top Languages" height="180"/>
+  <img src="https://ghstats.dev/api/card?username=Praveenskg&theme=dracula&border_radius=8" alt="GitHub Stats Card""/>
+  <!-- <img src="https://ghstats.dev/api/langs?username=Praveenskg&theme=dracula&layout=compact" alt="Top Languages" height="180"/> -->
 </p>
 
 ---
@@ -123,7 +123,7 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 <p align="center">
   <img src="https://github-readme-praveen.vercel.app/?user=praveenskg&theme=dracula" width="420" height="180" alt="GitHub streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenskg&theme=dracula&area=true&hide_border=false" width="420" height="180" alt="GitHub activity graph" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenskg&theme=dracula&area=true&hide_border=false" width="420" height="180" alt="GitHub activity graph" /> -->
 </p>
 
 ---
