@@ -84,11 +84,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Arthur%20C.%20Clarke&quote=Any%20sufficiently%20advanced%20technology%20is%20indistinguishable%20from%20magic.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Warnock&quote=To%20be%20successful%2C%20you%20want%20to%20surround%20yourself%20with%20very%20talented%20folks%20whose%20skills%20blend%20very%20well.%20That%E2%80%99s%20the%20secret%20of%20success.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
