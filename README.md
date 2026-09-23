@@ -86,11 +86,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Peyton%20Jones&quote=I%20characterize%20functional%20programming%20as%20a%20radical%20and%20elegant%20attack%20on%20the%20whole%20enterprise%20of%20writing%20programs.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=I%20have%20no%20special%20talent.%20I%20am%20only%20passionately%20curious.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
