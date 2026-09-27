@@ -88,11 +88,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Butler%20Lampson&quote=A%20beautiful%20program%20is%20like%20a%20beautiful%20theorem%3A%20It%20does%20the%20job%20elegantly.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Fowler&quote=With%20testing%2C%20I%20know%20straight%20away%20when%20I%20added%20a%20bug.%20That%20lets%20me%20fix%20the%20bug%20immediately%2C%20before%20it%20can%20crawl%20off%20and%20hide.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
