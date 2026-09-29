@@ -89,11 +89,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Fowler&quote=With%20testing%2C%20I%20know%20straight%20away%20when%20I%20added%20a%20bug.%20That%20lets%20me%20fix%20the%20bug%20immediately%2C%20before%20it%20can%20crawl%20off%20and%20hide.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joseph%20Yoder%20(computer%20scientist)&quote=Reviews%20and%20pair%20programming%20provide%20programmers%20with%20something%20their%20work%20would%20not%20otherwise%20have%3A%20an%20audience.%20Sunlight%2C%20it%20is%20said%20is%20a%20powerful%20disinfectant.%20An%20immediate%20audience%20of%20one's%20peers%20provides%20immediate%20incentives%20to%20programmers%20to%20keep%20their%20code%20clear%20and%20comprehensible%2C%20as%20well%20as%20functional.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
