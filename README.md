@@ -90,11 +90,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joseph%20Yoder%20(computer%20scientist)&quote=Reviews%20and%20pair%20programming%20provide%20programmers%20with%20something%20their%20work%20would%20not%20otherwise%20have%3A%20an%20audience.%20Sunlight%2C%20it%20is%20said%20is%20a%20powerful%20disinfectant.%20An%20immediate%20audience%20of%20one's%20peers%20provides%20immediate%20incentives%20to%20programmers%20to%20keep%20their%20code%20clear%20and%20comprehensible%2C%20as%20well%20as%20functional.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Harlan%20Mills&quote=The%20only%20way%20for%20errors%20to%20occur%20in%20a%20program%20is%20by%20being%20put%20there%20by%20the%20author.%20No%20other%20mechanisms%20are%20known.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
