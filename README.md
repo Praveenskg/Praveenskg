@@ -93,11 +93,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Butler%20Lampson&quote=There%20are%20some%20basic%20techniques%20to%20control%20complexity.%20Fundamentally%2C%20I%20divide%20and%20conquer%2C%20break%20things%20down%2C%20and%20try%20to%20write%20reasonably%20precise%20descriptions%20of%20what%20each%20piece%20is%20supposed%20to%20do.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bjarne%20Stroustrup&quote=There%20are%20only%20two%20kinds%20of%20languages%3A%20the%20ones%20people%20complain%20about%20and%20the%20ones%20nobody%20uses.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
