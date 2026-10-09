@@ -94,11 +94,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bjarne%20Stroustrup&quote=There%20are%20only%20two%20kinds%20of%20languages%3A%20the%20ones%20people%20complain%20about%20and%20the%20ones%20nobody%20uses.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Gleick&quote=Computer%20programs%20are%20the%20most%20intricate%2C%20delicately%20balanced%20and%20finely%20interwoven%20of%20all%20the%20products%20of%20human%20industry%20to%20date.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
