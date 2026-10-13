@@ -96,11 +96,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Perlis&quote=Educators%2C%20generals%2C%20dieticians%2C%20psychologists%2C%20and%20parents%20program.%20Armies%2C%20students%2C%20and%20some%20societies%20are%20programmed.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Kildall&quote=I%20start%20with%20drawing%20the%20data%20structures%2C%20and%20I%20spend%20a%20lot%20of%20time%20thinking%20about%20them.%20I%20also%20think%20about%20what%20the%20program%20has%20to%20go%20through%20before%20I%20start%20writing%20code.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
