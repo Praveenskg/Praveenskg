@@ -99,11 +99,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dennis%20Ritchie&quote=C%20is%20quirky%2C%20flawed%2C%20and%20an%20enormous%20success.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tom%20DeMarco&quote=The%20very%20best%20technology%20never%20has%20as%20much%20impact%20as%20girlfriend%20or%20boyfriend%20trouble.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
