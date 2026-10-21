@@ -100,11 +100,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tom%20DeMarco&quote=The%20very%20best%20technology%20never%20has%20as%20much%20impact%20as%20girlfriend%20or%20boyfriend%20trouble.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Donald%20Knuth&quote=People%20think%20that%20computer%20science%20is%20the%20art%20of%20geniuses%20but%20the%20actual%20reality%20is%20the%20opposite%2C%20just%20many%20people%20doing%20things%20that%20build%20on%20each%20other%2C%20like%20a%20wall%20of%20mini%20stones.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
