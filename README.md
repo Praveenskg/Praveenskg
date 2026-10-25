@@ -102,11 +102,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ludwig%20Wittgenstein&quote=The%20limits%20of%20my%20language%20mean%20the%20limits%20of%20my%20world.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paul%20Graham%20(programmer)&quote=In%20programming%20the%20hard%20part%20isn%E2%80%99t%20solving%20problems%2C%20but%20deciding%20what%20problems%20to%20solve.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
