@@ -103,11 +103,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paul%20Graham%20(programmer)&quote=In%20programming%20the%20hard%20part%20isn%E2%80%99t%20solving%20problems%2C%20but%20deciding%20what%20problems%20to%20solve.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=L.%20Peter%20Deutsch&quote=Software%20is%20a%20discipline%20of%20detail%2C%20and%20that%20is%20a%20deep%2C%20horrendous%20fundamental%20problem%20with%20software.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
