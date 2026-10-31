@@ -105,11 +105,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gottfried%20Wilhelm%20Leibniz&quote=Instead%20of%20the%20progression%20of%20tens%2C%20I%20have%20for%20many%20years%20used%20the%20simplest%20progression%20of%20all%2C%20which%20proceeds%20by%20twos%2C%20having%20found%20that%20it%20is%20useful%20for%20the%20perfection%20of%20the%20science%20of%20numbers.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Danny%20Hillis&quote=Every%20computer%20language%20has%20its%20Shakespeares%2C%20and%20it%20is%20a%20joy%20to%20read%20their%20code.%20A%20well-written%20computer%20program%20possesses%20style%2C%20finesse%2C%20even%20humor%E2%80%94and%20a%20clarity%20that%20rivals%20the%20best%20prose.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
