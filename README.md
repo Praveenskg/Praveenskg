@@ -107,11 +107,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ellen%20Ullman&quote=We%20build%20our%20computer%20systems%20the%20way%20we%20build%20our%20cities%3A%20over%20time%2C%20without%20a%20plan%2C%20on%20top%20of%20ruins.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gottfried%20Wilhelm%20Leibniz&quote=Even%20in%20the%20games%20of%20children%20there%20are%20things%20to%20interest%20the%20greatest%20mathematician.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
