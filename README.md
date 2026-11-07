@@ -109,11 +109,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Friedrich%20Bauer&quote=Software%20engineering%20is%20the%20part%20of%20computer%20science%20which%20is%20too%20difficult%20for%20the%20computer%20scientist.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bill%20Gates&quote=There's%20only%20one%20trick%20in%20software%2C%20and%20that%20is%20using%20a%20piece%20of%20software%20that's%20already%20been%20written.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
