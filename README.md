@@ -112,11 +112,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Douglas%20Crockford&quote=JavaScript%20is%20the%20only%20language%20that%20I'm%20aware%20of%20that%20people%20feel%20they%20don't%20need%20to%20learn%20before%20they%20start%20using%20it.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kevlin%20Henney&quote=No%20code%20is%20faster%20than%20no%20code.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
