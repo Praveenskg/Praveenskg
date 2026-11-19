@@ -115,11 +115,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marijn%20Haverbeke&quote=There%20are%20many%20terrible%20mistakes%20to%20make%20in%20program%20design%2C%20so%20go%20ahead%20and%20make%20them%20so%20that%20you%20understand%20them%20better.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=All%20of%20our%20exalted%20technological%20progress%2C%20civilization%20for%20that%20matter%2C%20is%20comparable%20to%20an%20axe%20in%20the%20hand%20of%20a%20pathological%20criminal.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
