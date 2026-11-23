@@ -117,11 +117,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paul%20Graham%20(programmer)&quote=The%20best%20thing%20software%20can%20be%20is%20easy%2C%20but%20the%20way%20to%20do%20this%20is%20to%20get%20the%20defaults%20right%2C%20not%20to%20limit%20users'%20choices.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Hal%20Abelson&quote=The%20reason%20that%20we%20think%20computer%20science%20is%20about%20computers%20is%20pretty%20much%20the%20same%20reason%20that%20the%20Egyptians%20thought%20geometry%20was%20about%20surveying%20instruments%3A%20when%20some%20field%20is%20just%20getting%20started%20and%20you%20don't%20really%20understand%20it%20very%20well%2C%20it's%20very%20easy%20to%20confuse%20the%20essence%20of%20what%20you're%20doing%20with%20the%20tools%20that%20you%20use.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
