@@ -119,11 +119,13 @@ I’m a Full Stack Developer focused on building scalable, high-performance appl
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=I'm%20convinced%20that%20about%20half%20of%20what%20separates%20the%20successful%20entrepreneurs%20from%20the%20non-successful%20ones%20is%20pure%20perseverance.%20It%20is%20so%20hard.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Friedrich%20Gauss&quote=I%20am%20never%20satisfied%20until%20I%20have%20said%20as%20much%20as%20possible%20in%20a%20few%20words%2C%20and%20writing%20briefly%20takes%20far%20more%20time%20than%20writing%20at%20length.&theme=radical&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
